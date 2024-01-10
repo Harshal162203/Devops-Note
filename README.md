@@ -1,5 +1,5 @@
 # Devops-Note
 
-## Find 20 Top command of git ? 
+## 1] Find 20 Top command of git ? 
 
 --> 
