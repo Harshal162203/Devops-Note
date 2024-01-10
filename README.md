@@ -2,7 +2,9 @@
 
 ## 1] Find 20 Top command of git ? 
 
--->  1] git config :- This command sets the author name and email address respectively to be used with your commits.
+-->  
+
+1] git config :- This command sets the author name and email address respectively to be used with your commits.
 
         Usage: git config –global user.name “[name]”
         Usage: git config –global user.email “[email address]” 
