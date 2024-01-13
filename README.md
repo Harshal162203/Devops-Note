@@ -144,7 +144,28 @@ This command discards the most recently stashed changeset.
 
         Usage: git stash drop        
         
-        
+## 2] Difference between Git Fetch and Git pull and Git clone ?
+
+--> 
+
+1] Git Fetch :-
+
+1. Used to fetch all changes from the remote repository to the local repository without merging into the current working directory.
+2. Repository data is updated in the .git directory.
+3. Review of commits and changes can be done.
+4. No possibility of merge conflicts.
+5. Command for Git fetch is git fetch<remote>
+6. Git fetch basically imports the commits to local branches so as to keep up-to-date that what everybody is working on.
+
+2] Git pull :- 
+
+1. Brings the copy of all the changes from a remote repository and mergens them into the current working directory.
+2. The working directory is updated directly.
+3. updates the changes to the local repository immediately.
+4. Merge conflicts are possible if the remote and the local repositories have dodne chages at the same place.
+5. Command for Git Pull is git pull <remote><branch>.
+6. Git Pull basically brings the local branch up-to-date with the remote copy that will also updates the other remote tracking braches.
+
 
 
 
