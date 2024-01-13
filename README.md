@@ -166,6 +166,23 @@ This command discards the most recently stashed changeset.
 5. Command for Git Pull is git pull <remote><branch>.
 6. Git Pull basically brings the local branch up-to-date with the remote copy that will also updates the other remote tracking braches.
 
+3] Git clone :-
+
+
+
+
+
+
+
+
+
+## 3] Difference between revert and restore ?
+
+--> 
+
+1] Revert :- 
+
+
 
 
 
